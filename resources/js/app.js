@@ -1,0 +1,9 @@
+import "../assets/vendor/libs/jquery/jquery";
+import "../assets/vendor/libs/popper/popper";
+import "../assets/vendor/js/bootstrap";
+import "../assets/vendor/libs/perfect-scrollbar/perfect-scrollbar";
+import "../assets/vendor/libs/node-waves/node-waves";
+import "../assets/vendor/libs/hammer/hammer";
+import "../assets/vendor/js/menu";
+import "../assets/js/main";
+import "../assets/js/pages-auth";
